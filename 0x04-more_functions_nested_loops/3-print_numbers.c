@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * print_numbers -print numbers
- * return: Always 0,
+ * return: Always 0
  */
+
 void print_numbers(void)
 {
 	int i;
